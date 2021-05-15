@@ -1,4 +1,4 @@
-# term-projects-2021
+# Term Projects 2021
 
 Repository for Term Project Material in 2021
 
