@@ -2,8 +2,8 @@
 
 ## Part 1
 
-- [Short Paper](surname-proposal.pdf) <!-- You should rename these files-->
-- [Presentation Slides](surname-presentation.pdf)
+- [Short Paper](kuinchtner-proposal.pdf) <!-- You should rename these files-->
+- [Presentation Slides](kuinchtner-presentation.pdf)
 
 Suggestions for further work (possibly outside the scope of this course):
 
