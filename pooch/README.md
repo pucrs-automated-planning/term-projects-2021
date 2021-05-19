@@ -1,9 +1,9 @@
-# Student Name 
+# Eduardo Pooch
 
 ## Part 1
 
-- [Short Paper](surname-proposal.pdf) <!-- You should rename these files-->
-- [Presentation Slides](surname-presentation.pdf)
+- [Short Paper](pooch-proposal.pdf) <!-- You should rename these files-->
+- [Presentation Slides](pooch-presentation.pdf)
 
 Suggestions for further work (possibly outside the scope of this course):
 
@@ -16,5 +16,5 @@ Stylistic comments:
 ## Part 2
 
 - [Implementation](#TBD)
-- [Final paper](surname-paper.pdf) - Please submit it to [EasyChair](https://easychair.org/conferences/?conf=ap2021)
-- [Final presentation slides](surname-final-presentation-slides.pdf)
+- [Final paper](pooch-paper.pdf) - Please submit it to [EasyChair](https://easychair.org/conferences/?conf=ap2021)
+- [Final presentation slides](pooch-final-presentation-slides.pdf)
