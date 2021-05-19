@@ -1,9 +1,9 @@
-# Student Name 
+# Douglas Antunes Tesch 
 
 ## Part 1
 
-- [Short Paper](surname-proposal.pdf) <!-- You should rename these files-->
-- [Presentation Slides](surname-presentation.pdf)
+- [Short Paper](tesch-proposal.pdf) <!-- You should rename these files-->
+- [Presentation Slides](tesch-presentation.pdf)
 
 Suggestions for further work (possibly outside the scope of this course):
 
