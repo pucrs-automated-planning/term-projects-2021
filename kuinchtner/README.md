@@ -1,4 +1,4 @@
-# Student Name 
+# Daniela Kuinchtner
 
 ## Part 1
 
