@@ -1,9 +1,9 @@
-# Student Name 
+# Douglas Trajano
 
 ## Part 1
 
-- [Short Paper](surname-proposal.pdf) <!-- You should rename these files-->
-- [Presentation Slides](surname-presentation.pdf)
+- [Short Paper](trajano-proposal.pdf)
+- [Presentation Slides](trajano-proposal-slides.pdf)
 
 Suggestions for further work (possibly outside the scope of this course):
 
