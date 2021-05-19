@@ -9,7 +9,7 @@ Repository for Term Project Material in 2021
 | 9h50      | Operator-Counting Heuristics in HTN Planning | [Daniela Kuinchtner](./kuinchtner) |
 | 10h05     | Plan Recognition for Behavior Estimation in a Robotic Soccer Player | [Douglas Tesch](./tesch) |
 | 10h20     | Using Automated Planning in data centers fault tolerance systems | [Douglas Trajano](./trajano) |
-| 10h35     |  TBD  | [Eduardo Pooch](./pooch) |
+| 10h35     | Planning Confident Predictions for Semi-Supervised Learning | [Eduardo Pooch](./pooch) |
 | 10h50     |  TBD  | [Felipe Nunes](./nunes) |
 | 11h05     |  TBD  | [Gabriel Henrique](./henrique) |
 | 11h20     |  TBD  | [Luciane Boanova](./boanova) |
