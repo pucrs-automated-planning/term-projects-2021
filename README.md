@@ -11,7 +11,7 @@ Repository for Term Project Material in 2021
 | 10h20     | Using Automated Planning in data centers fault tolerance systems | [Douglas Trajano](./trajano) |
 | 10h35     | Planning Confident Predictions for Semi-Supervised Learning | [Eduardo Pooch](./pooch) |
 | 10h50     |  TBD  | [Felipe Nunes](./nunes) |
-| 11h05     |  TBD  | [Gabriel Henrique](./henrique) |
+| 11h05     | Reinforcement Learning for Goal Recognition | [Gabriel Henrique](./henrique) |
 | 11h20     |  TBD  | [Luciane Boanova](./boanova) |
 | 11h35     |  TBD  | [Marlon Silva](./silva) |
 | 11h50     |  Planning medical oxygen supply distribution to treat hospitalized COVID-19 patients | [Thiago Ferreira](./ferreira) |
