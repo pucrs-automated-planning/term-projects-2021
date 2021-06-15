@@ -7,7 +7,8 @@
 
 Suggestions for further work (possibly outside the scope of this course):
 
-- [ ] TBD
+- Small discount on ADC since there is not much planning. Report is good, but should better detail MDPs. Talk more about RL. Finally, which networks do you intend to test it on, you talk about the dataset (CIFAR-10), but not the networks (only talked in the presentation).
+- I recommend explaining more how you model the MDP at least one paragraph describing how you will represent the states.
 
 Stylistic comments:
 
