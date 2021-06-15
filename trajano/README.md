@@ -11,7 +11,9 @@ Suggestions for further work (possibly outside the scope of this course):
 
 Stylistic comments:
 
-- [ ] TBD
+- Superficial report
+- Report is poorly written and the paper format is not ideal. Only two citations, poorly formatted technical section, usage of I and so on. 
+- You should include citations or related work to support some concepts described in the Introduction Section. The complexity of this work will depend on how you will model the planning domain for this problem, but you did not explain enough about it in the presentation or your report.
 
 ## Part 2
 
