@@ -11,7 +11,7 @@ Suggestions for further work (possibly outside the scope of this course):
 
 Stylistic comments:
 
-- [ ] TBD
+- Superficial proposal, late hand in
 
 ## Part 2
 
