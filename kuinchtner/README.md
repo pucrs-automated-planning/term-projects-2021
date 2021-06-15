@@ -11,7 +11,12 @@ Suggestions for further work (possibly outside the scope of this course):
 
 Stylistic comments:
 
-- [ ] TBD
+- Minor problems in the report
+- Explain HDDL first; 
+- Talk about which domains are going to be tested. 
+- Conclusion could be better, too much repetition. 
+- Excellent presentation
+- Technical Approach Section (the last paragraph to be specific) seems a little bit confusing. Perhaps explain how each idea is related (or not).
 
 ## Part 2
 
