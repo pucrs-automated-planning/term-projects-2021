@@ -7,11 +7,12 @@
 
 Suggestions for further work (possibly outside the scope of this course):
 
-- [ ] TBD
+- Overlong presentation
 
 Stylistic comments:
 
-- [ ] TBD
+- I like that the author formalized the domain and the plan recognition problem, but I would be careful with these definitions. The paper has a lot of typos (small stuff mostly), I recommend the usage of spell checkers just to avoid these typos.
+- The abstract seems incomplete. Include a single sentence commenting the problem at least. There are some typos, which the Grammarly or another syntax checker could easily detect such errors.
 
 ## Part 2
 
