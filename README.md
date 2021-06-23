@@ -2,7 +2,9 @@
 
 Repository for Term Project Material in 2021
 
-## Presentation Schedule -- [Proposals (Online Teams)](https://youtu.be/tzUBp3IjJ-c)
+## Presentation Schedule
+
+### [Proposals (Online Teams)](https://youtu.be/tzUBp3IjJ-c)
 
 | Time Slot | Title | Presenter |
 | --------- | ----- | --------- |
@@ -14,6 +16,17 @@ Repository for Term Project Material in 2021
 | 11h20     | Explainable AI Planning in Urban Traffic  | [Marlon Silva](./silva) |
 | 11h50     | Planning medical oxygen supply distribution to treat hospitalized COVID-19 patients | [Thiago Ferreira](./ferreira) |
 
+### Final Presentation (Online Teams)
+
+| Time Slot | Title | Presenter |
+| --------- | ----- | --------- |
+| 9h50      | Planning medical oxygen supply distribution to treat hospitalized COVID-19 patients | [Thiago Ferreira](./ferreira) |
+| 10h05     | Explainable AI Planning in Urban Traffic  | [Marlon Silva](./silva) |
+| 10h20     | Reinforcement Learning for Goal Recognition | [Gabriel Henrique](./henrique) |
+| 10h35     | Planning Confident Predictions for Semi-Supervised Learning | [Eduardo Pooch](./pooch) |
+| 10h50     | Using Automated Planning in data centers fault tolerance systems | [Douglas Trajano](./trajano) |
+| 11h20     | Plan Recognition for Behavior Estimation in a Robotic Soccer Player | [Douglas Tesch](./tesch) |
+| 11h50     | Operator-Counting Heuristics in HTN Planning | [Daniela Kuinchtner](./kuinchtner) |
 
 ## Assessment Criteria
 
