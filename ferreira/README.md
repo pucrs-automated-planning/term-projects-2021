@@ -11,10 +11,10 @@ Suggestions for further work (possibly outside the scope of this course):
 
 Stylistic comments:
 
-- [ ] TBD
+- Report format is lackluster. Very short technical section. The domain chosen is an excellent choice.
 
 ## Part 2
 
 - [Implementation](#TBD)
-- [Final paper](surname-paper.pdf) - Please submit it to [EasyChair](https://easychair.org/conferences/?conf=ap2021)
-- [Final presentation slides](surname-final-presentation-slides.pdf)
+- [Final paper](ferreira-paper.pdf) - Please submit it to [EasyChair](https://easychair.org/conferences/?conf=ap2021)
+- [Final presentation slides](ferreira-final-presentation-slides.pdf)
