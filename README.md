@@ -25,8 +25,8 @@ Repository for Term Project Material in 2021
 | 10h20     | Reinforcement Learning for Goal Recognition | [Gabriel Henrique](./henrique) |
 | 10h35     | Planning Confident Predictions for Semi-Supervised Learning | [Eduardo Pooch](./pooch) |
 | 10h50     | Using Automated Planning in data centers fault tolerance systems | [Douglas Trajano](./trajano) |
-| 11h20     | Plan Recognition for Behavior Estimation in a Robotic Soccer Player | [Douglas Tesch](./tesch) |
-| 11h50     | Operator-Counting Heuristics in HTN Planning | [Daniela Kuinchtner](./kuinchtner) |
+| 11h05     | Plan Recognition for Behavior Estimation in a Robotic Soccer Player | [Douglas Tesch](./tesch) |
+| 11h20     | Operator-Counting Heuristics in HTN Planning | [Daniela Kuinchtner](./kuinchtner) |
 
 ## Assessment Criteria
 
