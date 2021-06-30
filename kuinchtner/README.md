@@ -20,6 +20,6 @@ Stylistic comments:
 
 ## Part 2
 
-- [Implementation](#TBD)
+- [Implementation](https://github.com/danielakuinchtner/panda)
 - [Final paper](kuinchtner-paper.pdf) - Please submit it to [EasyChair](https://easychair.org/conferences/?conf=ap2021)
 - [Final presentation slides](kuinchtner-final-presentation-slides.pdf)
