@@ -1,9 +1,9 @@
-# Student Name 
+# Marlon Silva
 
 ## Part 1
 
-- [Short Paper](surname-proposal.pdf) <!-- You should rename these files-->
-- [Presentation Slides](surname-presentation.pdf)
+- [Short Paper](silva-proposal.pdf) <!-- You should rename these files-->
+- [Presentation Slides](silva-presentation.pdf)
 
 Suggestions for further work (possibly outside the scope of this course):
 
@@ -11,7 +11,7 @@ Suggestions for further work (possibly outside the scope of this course):
 
 Stylistic comments:
 
-- [ ] TBD
+- Superficial proposal, late hand in
 
 ## Part 2
 

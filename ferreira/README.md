@@ -11,7 +11,7 @@ Suggestions for further work (possibly outside the scope of this course):
 
 Stylistic comments:
 
-- [ ] TBD
+- Report format is lackluster. Very short technical section. The domain chosen is an excellent choice.
 
 ## Part 2
 
